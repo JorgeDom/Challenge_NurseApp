@@ -3,12 +3,11 @@ import time
 from pymongo import errors
 from django.http import JsonResponse, HttpResponse
 from django.shortcuts import render, redirect
-from django.contrib.auth.decorators import login_required, group_required
 from django.views.decorators.csrf import csrf_exempt
-from django.contrib import messages
 from datetime import datetime
 from bson.objectid import ObjectId
 
+from nurseApp.custom_decorators import *
 from nurseApp.forms import *
 # parameter for custom message
 DANGER = 50
