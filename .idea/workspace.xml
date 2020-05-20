@@ -25,21 +25,23 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/nurseApp/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35469612">
-              <caret line="58" column="41" selection-start-line="58" selection-start-column="41" selection-end-line="58" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.3569061">
+              <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
-                <element signature="e#813#1888#0" expanded="false" />
-                <element signature="e#9277#13380#0" expanded="false" />
-                <element signature="e#13430#16055#0" expanded="false" />
-                <element signature="e#16110#17263#0" expanded="false" />
-                <element signature="e#17319#18129#0" expanded="false" />
-                <element signature="e#18188#18924#0" expanded="false" />
-                <element signature="e#19075#19168#0" expanded="false" />
-                <element signature="e#19243#20911#0" expanded="false" />
-                <element signature="e#21006#23012#0" expanded="false" />
-                <element signature="e#23089#23235#0" expanded="false" />
-                <element signature="e#23301#24736#0" expanded="false" />
+                <element signature="e#812#1887#0" expanded="false" />
+                <element signature="e#1936#2584#0" expanded="false" />
+                <element signature="e#2627#10433#0" expanded="false" />
+                <element signature="e#10494#15153#0" expanded="false" />
+                <element signature="e#15202#18055#0" expanded="false" />
+                <element signature="e#18110#19374#0" expanded="false" />
+                <element signature="e#19430#20359#0" expanded="false" />
+                <element signature="e#20418#21154#0" expanded="false" />
+                <element signature="e#21304#21474#0" expanded="false" />
+                <element signature="e#21548#23410#0" expanded="false" />
+                <element signature="e#23505#25703#0" expanded="false" />
+                <element signature="e#25779#26142#0" expanded="false" />
+                <element signature="e#26208#28362#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -549,7 +551,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -558,7 +560,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16471216" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16471216" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -585,7 +587,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -864,21 +866,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nurseApp/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35469612">
-          <caret line="58" column="41" selection-start-line="58" selection-start-column="41" selection-end-line="58" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.3569061">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
-            <element signature="e#813#1888#0" expanded="false" />
-            <element signature="e#9277#13380#0" expanded="false" />
-            <element signature="e#13430#16055#0" expanded="false" />
-            <element signature="e#16110#17263#0" expanded="false" />
-            <element signature="e#17319#18129#0" expanded="false" />
-            <element signature="e#18188#18924#0" expanded="false" />
-            <element signature="e#19075#19168#0" expanded="false" />
-            <element signature="e#19243#20911#0" expanded="false" />
-            <element signature="e#21006#23012#0" expanded="false" />
-            <element signature="e#23089#23235#0" expanded="false" />
-            <element signature="e#23301#24736#0" expanded="false" />
+            <element signature="e#812#1887#0" expanded="false" />
+            <element signature="e#1936#2584#0" expanded="false" />
+            <element signature="e#2627#10433#0" expanded="false" />
+            <element signature="e#10494#15153#0" expanded="false" />
+            <element signature="e#15202#18055#0" expanded="false" />
+            <element signature="e#18110#19374#0" expanded="false" />
+            <element signature="e#19430#20359#0" expanded="false" />
+            <element signature="e#20418#21154#0" expanded="false" />
+            <element signature="e#21304#21474#0" expanded="false" />
+            <element signature="e#21548#23410#0" expanded="false" />
+            <element signature="e#23505#25703#0" expanded="false" />
+            <element signature="e#25779#26142#0" expanded="false" />
+            <element signature="e#26208#28362#0" expanded="false" />
           </folding>
         </state>
       </provider>
